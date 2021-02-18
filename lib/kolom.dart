@@ -16,13 +16,13 @@ class kolom extends StatelessWidget {
                 decoration: BoxDecoration(
                   border: Border(
                     top: BorderSide(
-                      color: Colors.blueAccent,
+                      color: Colors.white70,
                     ),
                     left: BorderSide(
-                      color: Colors.blueAccent,
+                      color: Colors.white70,
                     ),
                     bottom: BorderSide(
-                      color: Colors.blueAccent,
+                      color: Colors.white70,
                     ),
                   ),
                   image: DecorationImage(
@@ -44,13 +44,13 @@ class kolom extends StatelessWidget {
                 decoration: BoxDecoration(
                   border: Border(
                     top: BorderSide(
-                      color: Colors.blueAccent,
+                      color: Colors.black,
                     ),
                     right: BorderSide(
-                      color: Colors.blueAccent,
+                      color: Colors.black,
                     ),
                     bottom: BorderSide(
-                      color: Colors.blueAccent,
+                      color: Colors.black,
                     ),
                   ),
                 ),
@@ -74,13 +74,13 @@ class kolom extends StatelessWidget {
           decoration: BoxDecoration(
             border: Border(
               bottom: BorderSide(
-                color: Colors.blueAccent,
+                color: Colors.black,
               ),
               left: BorderSide(
-                color: Colors.blueAccent,
+                color: Colors.black,
               ),
               right: BorderSide(
-                color: Colors.blueAccent,
+                color: Colors.black,
               ),
             ),
           ),
